@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/GitHub (SL).tmTheme",
+	"draw_white_space": "all",
+	"fade_fold_buttons": false,
+	"font face": "source-code-pro",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 2,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

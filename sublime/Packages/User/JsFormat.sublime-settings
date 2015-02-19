@@ -1,0 +1,8 @@
+{
+  // jsformat options
+  "format_on_save": false,
+  "jsbeautifyrc_files": false,
+  "indent_size": 2,
+  "space_before_conditional": true,
+  "wrap_line_length": 120,
+}

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+mixins: [
+	${1:'Gearbox.mixin.ModelInfo',
+	'Gearbox.mixin.Logger'}
+],
+
+logLevel: 'debug',
+
+//
+
+]]></content>
+	<tabTrigger>mixins</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
