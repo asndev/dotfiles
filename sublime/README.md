@@ -9,6 +9,7 @@ mac default:
 ~/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages/
 
 // Current win8
+```
 {
 	"color_scheme": "Packages/Color Scheme - Default/Slush & Poppies.tmTheme",
 	"draw_white_space": "all",
@@ -22,3 +23,4 @@ mac default:
 	"soda_folder_icons": true,
 	"theme": "Soda Light 3.sublime-theme"
 }
+```
