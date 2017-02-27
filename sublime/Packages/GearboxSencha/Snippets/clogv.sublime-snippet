@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[console.log('$1', '=', $1);$2
-]]></content>
-	<tabTrigger>clogv</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[t.requireOk([
-	'$1'
-]);$2]]></content>
-	<tabTrigger>requireOk</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

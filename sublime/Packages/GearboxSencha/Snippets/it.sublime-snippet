@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[t.it('should $1', function(t) {
-	$2
-});]]></content>
-	<tabTrigger>it</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

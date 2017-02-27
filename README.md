@@ -1,2 +1,1 @@
-# dotfiles
-my personal dotfiles
+WIP / Merging different computers
